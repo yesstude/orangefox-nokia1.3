@@ -7,7 +7,7 @@ This repository contains the OrangeFox recovery image for Nokia 1.3 and fonts fo
 To clone the repository, first run
 
 ```sh
-git clone https://github.com/EcStud/orangefox-nokia1.3.git
+git clone https://github.com/yesstude/orangefox-nokia1.3.git
 ```
 
 ### Boot to recovery:
